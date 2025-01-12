@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3b6a5b4dc671d4",
+        "id": "c434d523aa31e2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c5bbf7acceb4d78d",
+            "id": "db6c4bc3e903b504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Twitter/Twitter System Design.md",
+                "file": "Networking/Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Twitter System Design"
+              "title": "Networking"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Twitter/Twitter System Design.md",
+                "file": "Networking/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Twitter System Design"
+              "title": "Backlinks for Networking"
             }
           },
           {
@@ -159,41 +159,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5bbf7acceb4d78d",
+  "active": "db6c4bc3e903b504",
   "lastOpenFiles": [
-    "Pasted image 20250112130757.png",
+    "Images/Pasted image 20250112162950.png",
+    "Images/Pasted image 20250112162901.png",
+    "Images/Pasted image 20250112162836.png",
+    "System Design/Twitter/Twitter System Design.md",
+    "Images/Pasted image 20250112162713.png",
+    "Networking/Networking.md",
+    "Images",
+    "Networking/Pasted image 20250112162423.png",
+    "Read Heavy vs Write Heavy Systems.md",
+    "Networking",
+    "Networking.md",
+    "JsonNode.md",
+    "Json-Jackson-Java.md",
+    "grok_system_design_interview.pdf",
+    "create a link.md",
+    "2025-01-11.md",
+    "().md",
+    "Overview A.md",
     "Pasted image 20250112130753.png",
+    "Pasted image 20250112130757.png",
+    "README.md",
+    "Singleton Design Pattern.md",
+    "Terminology.md",
+    "Topics to cover.md",
+    "Untitled.canvas",
+    "Untitled 2.md",
+    "System Design/Articles/To Read.md",
+    "System Design/Articles",
+    "Untitled 1",
     "System Design/Concepts/Back of the Envelope Calculations.md",
     "Clean Code/Code Formatting.md",
-    "System Design/Twitter/Twitter System Design.md",
     "Clean Code",
-    "Read Heavy vs Write Heavy Systems.md",
-    "().md",
-    "Untitled.canvas",
-    "2025-01-11.md",
-    "Terminology.md",
-    "Untitled 2.md",
     "System Design/Concepts/Terminology",
     "System Design/Concepts",
     "System Design/Twitter",
     "T",
-    "Topics to cover.md",
-    "Json-Jackson-Java.md",
     "Working with Bobby on Stage Stability Tasks.md",
-    "System Design",
-    "Project Planning and Estimates",
-    "Untitled",
-    "Design Patterns",
-    "JsonNode.md",
-    "Singleton Design Pattern.md",
-    "Networking.md",
     "Untitled 1.md",
-    "create a link.md",
     "Articles/How to Become a Good Backend Engineer (Fundamentals).md",
-    "[(1).md",
-    "Articles"
+    "[(1).md"
   ]
 }

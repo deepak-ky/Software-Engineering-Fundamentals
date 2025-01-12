@@ -123,5 +123,5 @@ Response Payload :
 
 **Client/Mobile App** : This is where the users will interact with the system by creating tweets, viewing feeds and following/unfollowing others - it's either the frontend browser app or the app on the user's phone.
 
+**Load Balancer :** All requests will go through our load balancer, which distributes them across multiple application servers. This is essentially important in handling the **read heavy traffic** of our news feed.
 
-new changes here
