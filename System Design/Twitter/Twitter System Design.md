@@ -55,7 +55,8 @@ This means we are dealing with 200M * 1MB = 20 petabytes of data read daily. #re
 
 Assumption: All requests are authenticated with the auth service before reaching our API, and we have a userId in each request.
 
-![[Pasted image 20250112130757.png|500]]
+![[Pasted image 20250112163229.png|600]]
+
 
 1. **Create Tweet** 
 
@@ -124,4 +125,8 @@ Response Payload :
 **Client/Mobile App** : This is where the users will interact with the system by creating tweets, viewing feeds and following/unfollowing others - it's either the frontend browser app or the app on the user's phone.
 
 **Load Balancer :** All requests will go through our load balancer, which distributes them across multiple application servers. This is essentially important in handling the **read heavy traffic** of our news feed.
+
+For now, we can use layer 4 (transport layer) load balancing, which operates based on TCP Port numbers and IP Addresses.
+
+
 

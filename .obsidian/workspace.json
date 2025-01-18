@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c434d523aa31e2f9",
+        "id": "51ec7c188d179395",
         "type": "tabs",
         "children": [
           {
-            "id": "db6c4bc3e903b504",
+            "id": "b15acae2b3419dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "New/Zookeeper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "Zookeeper"
+            }
+          },
+          {
+            "id": "b72320623ebc27c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube Channels with good content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Youtube Channels with good content"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "right": {
     "id": "e80f5c25174efd4b",
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "Youtube Channels with good content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Networking"
+              "title": "Backlinks for Youtube Channels with good content"
             }
           },
           {
@@ -163,28 +178,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db6c4bc3e903b504",
+  "active": "b72320623ebc27c5",
   "lastOpenFiles": [
+    "New/Zookeeper.md",
+    "Youtube Channels with good content.md",
+    "New/zz-Attachments/Pasted image 20250118125314.png",
+    "New/zz-Attachments/Pasted image 20250118121230.png",
+    "Networking/TCP-IP Model.md",
+    "New/zz-Attachments/Pasted image 20250118120116.png",
+    "New/zz-Attachments",
+    "New/attachments/Pasted image 20250118115948.png",
+    "New/attachments",
+    "Images/Pasted image 20250118115625.png",
+    "New",
+    "System Design/Twitter/Twitter System Design.md",
+    "Networking/Networking.md",
+    "Networking/Concepts.md",
+    "grok_system_design_interview.pdf",
+    "Images/Pasted image 20250112163229.png",
+    "Pasted image 20250112130757.png.md",
+    "Networking/Pasted image 20250112162423.png",
     "Images/Pasted image 20250112162950.png",
     "Images/Pasted image 20250112162901.png",
     "Images/Pasted image 20250112162836.png",
-    "System Design/Twitter/Twitter System Design.md",
-    "Images/Pasted image 20250112162713.png",
-    "Networking/Networking.md",
     "Images",
-    "Networking/Pasted image 20250112162423.png",
     "Read Heavy vs Write Heavy Systems.md",
     "Networking",
     "Networking.md",
     "JsonNode.md",
     "Json-Jackson-Java.md",
-    "grok_system_design_interview.pdf",
     "create a link.md",
     "2025-01-11.md",
     "().md",
     "Overview A.md",
-    "Pasted image 20250112130753.png",
-    "Pasted image 20250112130757.png",
     "README.md",
     "Singleton Design Pattern.md",
     "Terminology.md",
@@ -198,12 +224,8 @@
     "Clean Code/Code Formatting.md",
     "Clean Code",
     "System Design/Concepts/Terminology",
-    "System Design/Concepts",
-    "System Design/Twitter",
-    "T",
     "Working with Bobby on Stage Stability Tasks.md",
     "Untitled 1.md",
-    "Articles/How to Become a Good Backend Engineer (Fundamentals).md",
-    "[(1).md"
+    "Articles/How to Become a Good Backend Engineer (Fundamentals).md"
   ]
 }
