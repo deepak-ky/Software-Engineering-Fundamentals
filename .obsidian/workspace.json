@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51ec7c188d179395",
+        "id": "3b0894b37b090d42",
         "type": "tabs",
         "children": [
           {
-            "id": "b15acae2b3419dda",
+            "id": "a4bd7dc35e623af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Zookeeper.md",
+                "file": "Java Projects/simple-http-server/Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zookeeper"
-            }
-          },
-          {
-            "id": "b72320623ebc27c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube Channels with good content.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Youtube Channels with good content"
+              "title": "Points"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Youtube Channels with good content.md",
+                "file": "Java Projects/simple-http-server/Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Youtube Channels with good content"
+              "title": "Backlinks for Points"
             }
           },
           {
@@ -178,9 +163,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b72320623ebc27c5",
+  "active": "a4bd7dc35e623af3",
   "lastOpenFiles": [
+    "Java/Annotation Processing.md",
+    "Java Projects/simple-http-server/Points.md",
+    "Java Projects/simple-http-server",
+    "Java Projects",
+    "Networking/HTTP.md",
+    "Java/Generics/Generics.md",
     "New/Zookeeper.md",
+    "Java/Errors And Exceptions.md",
+    "Json-Jackson-Java.md",
+    "Java/Generics",
+    "Java",
     "Youtube Channels with good content.md",
     "New/zz-Attachments/Pasted image 20250118125314.png",
     "New/zz-Attachments/Pasted image 20250118121230.png",
@@ -206,7 +201,6 @@
     "Networking",
     "Networking.md",
     "JsonNode.md",
-    "Json-Jackson-Java.md",
     "create a link.md",
     "2025-01-11.md",
     "().md",
@@ -217,15 +211,6 @@
     "Topics to cover.md",
     "Untitled.canvas",
     "Untitled 2.md",
-    "System Design/Articles/To Read.md",
-    "System Design/Articles",
-    "Untitled 1",
-    "System Design/Concepts/Back of the Envelope Calculations.md",
-    "Clean Code/Code Formatting.md",
-    "Clean Code",
-    "System Design/Concepts/Terminology",
-    "Working with Bobby on Stage Stability Tasks.md",
-    "Untitled 1.md",
-    "Articles/How to Become a Good Backend Engineer (Fundamentals).md"
+    "System Design/Articles/To Read.md"
   ]
 }

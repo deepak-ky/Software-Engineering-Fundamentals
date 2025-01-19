@@ -13,3 +13,4 @@ Likewise, with the `@JsonCreator` approach, Jackson first instantiates an obje
 
 [Jackson JSON Java Parser API Example Tutorial | DigitalOcean](https://www.digitalocean.com/community/tutorials/jackson-json-java-parser-api-example-tutorial)
 
+[How to parse JSON string with Jackson - Mkyong.com](https://mkyong.com/java/jackson-how-to-parse-json/#parse-json-string-with-jackson)
