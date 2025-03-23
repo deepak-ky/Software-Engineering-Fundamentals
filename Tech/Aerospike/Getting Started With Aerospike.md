@@ -1,3 +1,7 @@
+More Reading Required : [101 On Aerospike Data Base for Beginners | by Prabhu Rajendran | Everything at Once | Medium](https://medium.com/everythingatonce/101-on-aerospike-data-base-for-beginners-ea0408e0493e)
+
+
+
 
 Medium Article : [Starting out with Aerospike. A intro into into setting up and… | by Bogdan Pistol | Tech Club | Medium](https://medium.com/techclub/starting-out-with-aerospike-10ce0358e955)
 
