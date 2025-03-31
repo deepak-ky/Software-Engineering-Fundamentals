@@ -6,3 +6,5 @@
 [Gaurav Sen](https://www.youtube.com/@gkcs/videos)
 
 [6 Tech Skills that Your Future Depends On](https://www.youtube.com/@EngineeringwithUtsav/videos) 
+
+[(2244) JAVA from Basics to Advanced (All Videos are in English) - YouTube](https://www.youtube.com/playlist?list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx)

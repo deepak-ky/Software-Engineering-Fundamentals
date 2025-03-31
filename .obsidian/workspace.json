@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Interesting/Interesting Facts.md",
+                "file": "Tech/RabbitMQ/Rabbit MQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interesting Facts"
+              "title": "Rabbit MQ"
             }
           }
         ]
@@ -166,10 +166,16 @@
   },
   "active": "ea7fc62724e83fcb",
   "lastOpenFiles": [
-    "Java/Logging/Logging In Java.md",
-    "Java/Interesting/Interesting Facts.md",
-    "Java/Interesting",
+    "Career Path/Career Path.md",
+    "Tech/RabbitMQ/Rabbit MQ.md",
+    "Tech/Aerospike/Getting Started With Aerospike.md",
+    "Career Path",
+    "Java/Generics/Generics.md",
+    "Tech/RabbitMQ",
     "Youtube Channels with good content.md",
+    "Java/Interesting/Interesting Facts.md",
+    "Java/Logging/Logging In Java.md",
+    "Java/Interesting",
     "Topics to cover.md",
     "Working with Bobby on Stage Stability Tasks.md",
     "Terminology.md",
@@ -178,7 +184,6 @@
     "Images/Pasted image 20250112162836.png",
     "Java/Databases/JDBC.md",
     "Java/Databases",
-    "Tech/Aerospike/Getting Started With Aerospike.md",
     "Tech/Aerospike/zz-Attachments/Pasted image 20250209090742.png",
     "Networking/TCP-IP Model.md",
     "Networking.md",
@@ -188,7 +193,6 @@
     "Tech/Aerospike",
     "Java/Private Constructors in Java.md",
     "Tech",
-    "Java/Generics/Generics.md",
     "Java/Logging",
     "Java Projects/simple-http-server/Points.md",
     "Java/Annotation Processing.md",
@@ -198,8 +202,6 @@
     "New/Zookeeper.md",
     "Java/Errors And Exceptions.md",
     "Json-Jackson-Java.md",
-    "Java/Generics",
-    "Java",
     "New/zz-Attachments/Pasted image 20250118125314.png",
     "New/zz-Attachments/Pasted image 20250118121230.png",
     "New/zz-Attachments/Pasted image 20250118120116.png",
@@ -210,8 +212,6 @@
     "Networking/Concepts.md",
     "Images/Pasted image 20250112163229.png",
     "Pasted image 20250112130757.png.md",
-    "Read Heavy vs Write Heavy Systems.md",
-    "JsonNode.md",
     "Untitled.canvas"
   ]
 }
